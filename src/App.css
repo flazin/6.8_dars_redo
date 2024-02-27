@@ -1,0 +1,94 @@
+.container {
+  width: 1412px;
+  height: 782px;
+  top: 83px;
+  left: 125px;
+}
+
+.title {
+  font-family: Roboto;
+  font-size: 80px;
+  font-weight: 700;
+  line-height: 90px;
+  letter-spacing: 0em;
+  text-align: left;
+  top: 221px;
+  margin-left: 80px;
+}
+
+.desc {
+  font-family: Roboto;
+  font-size: 29px;
+  font-weight: 500;
+  line-height: 45px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #6b6868;
+  margin-left: 80px;
+}
+.buttons {
+  font-family: Roboto;
+  font-size: 29px;
+  line-height: 45px;
+  margin-left: 100px;
+  left: 915px;
+  color: #000000;
+  text-decoration: none;
+}
+.translate {
+  background: transparent;
+  border: none;
+  margin-left: 15px;
+}
+
+.hire {
+  width: 225px;
+  height: 44px;
+  padding: 2px;
+  gap: 10px;
+  border: 2px solid #000000;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+  margin-left: 80px;
+  margin-top: 19px;
+}
+
+.see {
+  width: 378px;
+  height: 44px;
+  left: 343px;
+  padding: 2px;
+  gap: 10px;
+  border: 2px solid rgba(0, 0, 0, 1);
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  background-color: #000000;
+  position: absolute;
+  margin-left: 80px;
+}
+.image {
+  width: 78.41px;
+  height: 85.58px;
+  top: 212.78px;
+  left: 202.8px;
+}
+
+.img {
+  width: 500px;
+  height: 666.67px;
+  top: 164px;
+  left: 1041px;
+
+  position: absolute;
+}
